@@ -1,4 +1,5 @@
-let msg = 'Hello, world!';
-alert(msg);
-console.log('Hello, console!');
-document.write('Hello, document!');
+//storing data
+
+let name = "John";
+let age = 30;
+age = 30 + 1;
