@@ -39,3 +39,6 @@ let person = {
     lastName: 'Doe',
     age: 25
 }
+
+//accessing object
+console.log(person.firstName);
