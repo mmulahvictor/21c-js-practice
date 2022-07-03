@@ -22,7 +22,6 @@ if (guess == number) {
 else {
     guesses[i] = guess;
     alert("incorrect. \nYou have guessed: " + guesses.toString() + "\nTries remaining: " + (limit - i));
-    console.log(guesses);
 }
 }
 
